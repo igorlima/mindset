@@ -1,0 +1,11 @@
+{
+  "name": "mindset",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.10.2",
+    "raphael": "~2.1.2"
+  },
+  "devDependencies": {
+    "chai": "~1.8.1"
+  }
+}
